@@ -1,6 +1,5 @@
 # hello-world
 ## **Just learning ...**
+![Github logo](images/hello.png)
 
-![Github logo](D:\git work\hello-world\hello.png)
-
-​                                               ~~HUSTLE~~ :fleur_de_lis:
+~~HUSTLE~~ :fleur_de_lis:
