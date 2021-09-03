@@ -1,6 +1,6 @@
 # hello-world
 ## **Just learning ...**
 
-<img src="D:\hello.png" alt="Github Logo" style="zoom:150%;" />
+![Github logo](D:\git work\hello-world\hello.png)
 
 ​                                               ~~HUSTLE~~ :fleur_de_lis:
