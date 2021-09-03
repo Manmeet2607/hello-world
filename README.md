@@ -1,2 +1,3 @@
 # hello-world
-Justing learning ...
+## **Justing learning ...**
+~~HUSTLE~~ :fleur_de_lis:
